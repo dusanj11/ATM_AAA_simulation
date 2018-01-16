@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Username>client</Username>
+    <Pin>&#x3;�gB&#x16;��\v&#x1E;��U�g�6#ȳ��E�&#x13;�x��F�</Pin>
+    <Balance>13500</Balance>
+    <IsAuthenticated>false</IsAuthenticated>
+  </User>
+</ArrayOfUser>

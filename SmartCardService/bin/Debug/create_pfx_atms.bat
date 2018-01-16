@@ -1,0 +1,2 @@
+makecert -sv atmservice.pvk -iv TestCA.pvk -n "CN=atmservice" -pe -ic TestCA.cer atmservice.cer -sr localmachine -ss My -sky exchange
+pvk2pfx.exe /pvk atmservice.pvk /pi ftn /spc atmservice.cer /pfx atmservice.pfx

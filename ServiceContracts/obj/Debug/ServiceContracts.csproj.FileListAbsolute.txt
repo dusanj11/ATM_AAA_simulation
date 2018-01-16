@@ -1,0 +1,32 @@
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.dll.config
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\Modeli.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\Modeli.pdb
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.dll.config
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\Modeli.dll
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\Modeli.pdb
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.dll.config
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\Modeli.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\ServiceContracts\bin\Debug\Modeli.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.dll.config
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\ServiceContracts\bin\Debug\Modeli.dll
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\ServiceContracts\bin\Debug\Modeli.pdb
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\ServiceContracts\obj\Debug\ServiceContracts.pdb

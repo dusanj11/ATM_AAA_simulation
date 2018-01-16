@@ -1,0 +1,56 @@
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.exe.config
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.exe
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.exe
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\ServiceContracts.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\ServiceContracts.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.csprojResolveAssemblyReference.cache
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Modeli.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Modeli.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Common.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Common.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Manager.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Manager.pdb
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.exe.config
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.exe
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.pdb
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Common.dll
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Manager.dll
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Modeli.dll
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\ServiceContracts.dll
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Common.pdb
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Manager.pdb
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Modeli.pdb
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\ServiceContracts.pdb
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.csprojResolveAssemblyReference.cache
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.exe
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.exe.config
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.exe
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Common.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Manager.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Modeli.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\ServiceContracts.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Common.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Manager.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Modeli.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\bin\Debug\ServiceContracts.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.csprojResolveAssemblyReference.cache
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.exe
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.pdb
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.exe.config
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.exe
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\bin\Debug\SmartCardBackupService.pdb
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Common.dll
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Manager.dll
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Modeli.dll
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\bin\Debug\ServiceContracts.dll
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Common.pdb
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Manager.pdb
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\bin\Debug\Modeli.pdb
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\bin\Debug\ServiceContracts.pdb
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.exe
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\SmartCardBackupService\obj\Debug\SmartCardBackupService.pdb

@@ -1,0 +1,18 @@
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\Common\bin\Debug\Common.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\Common\bin\Debug\Common.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\Common\obj\Debug\Common.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\Projekat\SIBEES_Projekat\Common\obj\Debug\Common.pdb
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\Common\bin\Debug\Common.dll
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\Common\bin\Debug\Common.pdb
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\Common\obj\Debug\Common.dll
+C:\Users\ftn\Desktop\V1_projekat\SIBEES_Projekat\Common\obj\Debug\Common.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\Common\bin\Debug\Common.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\Common\bin\Debug\Common.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\Common\obj\Debug\Common.dll
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\Common\obj\Debug\Common.pdb
+C:\Users\jelac\OneDrive\PSI\Blok2\Sigurnost i bezbednost ee softvera\V2_projekat\V1_projekat\SIBEES_Projekat\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\Common\bin\Debug\Common.dll
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\Common\bin\Debug\Common.pdb
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\Common\obj\Debug\Common.dll
+C:\Users\Dusan\Desktop\Projekat_Final\SIBEES_Projekat\Common\obj\Debug\Common.pdb
