@@ -8,4 +8,4 @@ language: C#
 
 technology: WCF
 
-type of project: team project (2 members - me and Marko Jelaca)
+type of project: team project (2 members - Dušan Jeftić and Marko Jelaca)
